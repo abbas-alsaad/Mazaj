@@ -1,0 +1,38 @@
+{
+"Main":"Main",
+ 
+"Main_Sections_Title":"Sections",
+"Main_Sections_Search_PlaceHolder":"Search by name....",
+"Main_Sections__Table_Icon":"Icon",
+"Main_Sections__Table_Name":"Name",
+"Main_Sections__Table_Type":"Type",
+"Main_Sections__Table_Actions":"Actions",
+"Main_Sections__Add_New_Section":"Add Section",
+"Main_Shops_Title":"Shops",
+"Main_Shops_Search_PlaceHolder":"Search by name....",
+"Main_Shops_Table_Name":"Name",
+"Main_Shops_Table_Section":"Sections",
+"Main_Shops_Table_Actions":"Actions",
+"Main_Shops_Add_Categprie_Button" : "Add Categorie",
+"Main_Shops_Add_NewCategory_Button":"Add new category",
+
+
+
+"Main_Branches_Title":"Branches",
+"Main_Branches_Search_PlaceHolder":"Search by name....",
+"Main_Branches_Table_Name":"Name",
+"Main_Branches_Table_Shops":"Sjops",
+"Main_Branches_Table_Actions":"Actions",
+"Main_Branches_Add_Categprie_Button" : "Add Categorie",
+
+
+
+
+"Cancel_Button":"Cancel",
+"Search_Button":"Search",
+"Add_Button":"Add",
+"Edit_Button":"Edit",
+"Delete_Button":"Delete"
+
+
+}

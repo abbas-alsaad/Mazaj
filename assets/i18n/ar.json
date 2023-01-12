@@ -1,0 +1,38 @@
+{
+"Main":"الرئيسية",
+"Main_Sections_Title":"الاقسام",
+
+"Main_Sections_Search_PlaceHolder":"بحث بواسطة الاسم...",
+"Main_Sections__Table_Icon":"الشعار",
+"Main_Sections__Table_Name":"الاسم",
+"Main_Sections__Table_Type":"النوع",
+"Main_Sections__Table_Actions":"الاجرائات",
+"Main_Sections__Add_New_Section":"اضافة قسم",
+
+"Main_Shops_Title":"المتجر",
+
+"Main_Shops_Search_PlaceHolder":"بحث بواسطة الاسم...",
+"Main_Shops_Table_Name":"الاسم",
+"Main_Shops_Table_Section":"القسم",
+"Main_Shops_Table_Actions":"الاجرائات",
+"Main_Shops_Add_Categprie_Button" : "اضافة تصنيف",
+"Main_Shops_Add_NewCategory_Button":"اضافة صنف جديد",
+
+
+"Main_Branches_Title":"الفروع",
+"Main_Branches_Search_PlaceHolder":"بحث بواسطة الاسم...",
+"Main_Branches_Table_Name":"الاسم",
+"Main_Branches_Table_Shops":"المتجر",
+"Main_Branches_Table_Actions":"الاجرائات",
+"Main_Branches_Add_Categprie_Button" : "اضافة تصنيف",
+
+
+
+
+
+"Search_Button":"بحث",
+"Cancel_Button":"الغاء",
+"Add_Button":"اضافة",
+"Edit_Button":"تعديل",
+"Delete_Button":"حذف"
+  }
